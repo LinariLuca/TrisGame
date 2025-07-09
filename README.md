@@ -46,4 +46,8 @@ For questions, suggestions, or collaborations on this or **other larger projects
 
 ## ⭐️ How to Run
 
-1. Clone this repository:
+1. Clone this repository: https://github.com/LinariLuca/TrisGame.git
+2. Navigate to the project folder: cd tic-tac-toe
+3. Run the game: python TicTacToe.py
+4. Enjoy the game
+
