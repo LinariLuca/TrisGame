@@ -1,6 +1,49 @@
-#TIC TAC TOE BY LINARI LUCA
+# 🎮 Tic Tac Toe by Linari Luca
 
-Project in which I went to create the game of tic-tac-toe, the special feature being that I adapted this version for users of the MacOS operating system, as I wanted to use the tkinter library.
-The latter does not allow the function of filling the colour of a single button to work properly, but in this case I got around the problem by colouring the outline of the button and not the inside of it directly.
+Welcome to my **Tic Tac Toe** project — a simple implementation of the classic game, adapted specifically for **macOS** users.
 
-For any doubts or requests for collaboration on other projects (even considerably larger than this one), I remain at your disposal at the following e-mail address: luca.linari@gmail.com
+---
+
+## 🧩 About the Project
+
+In this project, I developed a Tic Tac Toe game using the **Tkinter** library.  
+The special feature of this version is that it addresses a **macOS compatibility issue**:  
+> On macOS, Tkinter does not allow the background color of a single button to be changed correctly.
+
+To work around this, I implemented a solution that **colors the button's border instead of its background**.
+
+---
+
+## 🚀 Features
+
+✅ Classic Tic Tac Toe gameplay  
+✅ Clean and minimal interface  
+✅ Compatible with **macOS**  
+✅ Simple workaround for Tkinter button color limitations  
+
+---
+
+## 💻 Requirements
+
+- Python 3.x
+- Tkinter (usually included in standard Python installations)
+
+---
+
+## ✨ Screenshots
+
+*(Add screenshots here if you have them)*
+
+---
+
+## 📬 Contact & Collaboration
+
+For questions, suggestions, or collaborations on this or **other larger projects**, feel free to reach out:
+
+📧 **luca.linari@gmail.com**
+
+---
+
+## ⭐️ How to Run
+
+1. Clone this repository:
