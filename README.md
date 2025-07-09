@@ -30,12 +30,6 @@ To work around this, I implemented a solution that **colors the button's border 
 
 ---
 
-## ✨ Screenshots
-
-*(Add screenshots here if you have them)*
-
----
-
 ## 📬 Contact & Collaboration
 
 For questions, suggestions, or collaborations on this or **other larger projects**, feel free to reach out:
